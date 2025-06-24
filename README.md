@@ -1,4 +1,3 @@
-
 # Task.2-EDA(Exploratory Data Analysis)-Using-Weather-dataset-
 Hey! This is my second task where I explored the dataset using stats and visuals to understand what’s going on with the data — like trends, outliers, and relationships between features.
 I used a Weather dataset for this task.
